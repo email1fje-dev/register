@@ -1,6 +1,8 @@
+
 {
   "owner": {
-    "username": "email1fje-dev"
+    "username": "email1fje-dev",
+    "email": "pskgame214@gmail.com"
   },
   "records": {
     "CNAME": "5lnscqff.up.railway.app"
